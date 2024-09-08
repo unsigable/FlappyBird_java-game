@@ -1,2 +1,3 @@
 # FlappyBird_java-game
-FlappyBird Java game (using swing)
+
+![image](https://github.com/user-attachments/assets/cabc35ad-622f-4b9a-8017-6acce62977c4)
